@@ -8,3 +8,4 @@ dependencies:
   - numpy
   - matplotlib
   - ipywidgets
+  - platypus-opt
