@@ -10,3 +10,4 @@ dependencies:
   - matplotlib
   - ipywidgets
   - platypus-opt
+  - openpyxl
